@@ -77,7 +77,7 @@ theme: landscape ##yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-## 注意冒号后面只能有一个空格
+## 注意冒号后面只能有一个空格，子项目必须要用Tab缩进
 ##deploy:
 ##  type: git
 ##  repo: https://github.com/eoshackathon/hexotest.git
